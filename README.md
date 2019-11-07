@@ -59,7 +59,7 @@ python ./socks_transmitter.py <path_to_directory_to_create_socks_files_in>
 #### Windows shared folder (through SMB or FTP)
 - mount the remote shared folder on your local machine (for instance to */tmp/socks*)
 ##### Receiver
-- launch the server like so :
+- launch the transmitter like so :
 ```
 python ./examples/linux_shared_folder/client/socks_receiver.py 127.0.0.1 <PORT_NUMBER> <path_to_directory_to_create_socks_files_in>
 ```
@@ -69,7 +69,7 @@ python ./examples/linux_shared_folder/client/socks_receiver.py 127.0.0.1 <PORT_N
 $SOCKS_DIR = "C:\Users\user\TEMP\socks\"
 ```
 - upload the *examples/windows_shared_folder/server/socks_transmitter.ps1* directory to the vulnerable server
-- launch the server like so :
+- launch the transmitter like so :
 ```
 ./socks_transmitter.ps1
 ```
