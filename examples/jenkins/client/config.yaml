@@ -1,0 +1,8 @@
+URL: "http://localhost:8080/"
+JSESSIONID_cookie_name: "JSESSIONID.ca5dadcd"
+JSESSIONID_cookie_value: "node019h42euypsqm8p19zyk7lk4zq1.node0"
+Jenkins_Crumb: "d69322c3a8a402968c3073526fd03bb0cadd394205a9256b7ace5d8803dfb3a6"
+proxies:
+    http: "http://127.0.0.1:8085"
+    https: "http://127.0.0.1:8085"
+
