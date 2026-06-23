@@ -119,5 +119,4 @@ These methods will define how the *receiver* script will be able to access and c
 ## Reference
 The SOCKS5 implementation was based on code found on WangYihang gist 
 	https://gist.github.com/WangYihang/e360574f78eb8a30671536e2e4c2fd59#file-socks-proxy-simple-py
-
 	http://10.139.51.80:8000/
